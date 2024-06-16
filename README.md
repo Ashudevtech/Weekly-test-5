@@ -3,18 +3,19 @@
 This project is a clone of the Amazon website homepage, showcasing various HTML and CSS skills.
 
 ## Table of Contents
-- [Header Section](#header-section)
-- [Banner Section](#banner-section)
-- [Hero Section](#hero-section)
-- [Shop Section](#shop-section)
-- [Footer Section](#footer-section)
-- [Hosted Link](#hosted-link)
-- [Screenshots and Explanations](#screenshots-and-explanations)
+- Header Section
+- Banner Section
+- Hero Section
+- Shop Section
+- Footer Section
+- Hosted Link
 
-## Header Section
+## Screenshots and Explanations
+
+### Header Section
 The header includes the navigation bar with a logo, address section, search bar, sign-in, returns, and cart links.
 
-### HTML Tags Used:
+**HTML Tags Used:**
 - `<header>`
 - `<nav>`
 - `<div>`
@@ -23,66 +24,66 @@ The header includes the navigation bar with a logo, address section, search bar,
 - `<input>`
 - `<span>`
 
-### CSS Properties:
+**CSS Properties:**
 - Flexbox for layout
 - Background colors
 - Font sizes and weights
 - Padding and margins
 
-![Header Screenshot](images/header-screenshot.png)
+![Header Screenshot](images/header.png)
 
-## Banner Section
+### Banner Section
 The banner includes navigation links and a special deals section.
 
-### HTML Tags Used:
+**HTML Tags Used:**
 - `<div>`
 - `<ul>`
 - `<li>`
 - `<a>`
 
-### CSS Properties:
+**CSS Properties:**
 - Flexbox for layout
 - Background colors
 - Font sizes
 - Padding and margins
 
-![Banner Screenshot](images/banner-screenshot.png)
+![Banner Screenshot](images/banner.png)
 
-## Hero Section
+### Hero Section
 The hero section includes a large background image.
 
-### HTML Tags Used:
+**HTML Tags Used:**
 - `<section>`
 
-### CSS Properties:
+**CSS Properties:**
 - Background image
 - Height and width settings
 - Background positioning
 
-![Hero Screenshot](images/hero-screenshot.png)
+![Hero Screenshot](images/hero.png)
 
-## Shop Section
+### Shop Section
 The shop section includes cards for different product categories with images and links.
 
-### HTML Tags Used:
+**HTML Tags Used:**
 - `<section>`
 - `<div>`
 - `<h3>`
 - `<img>`
 - `<a>`
 
-### CSS Properties:
+**CSS Properties:**
 - Grid layout
 - Padding and margins
 - Background colors
 - Hover effects
 
-![Shop Screenshot](images/shop-screenshot.png)
+![Shop Screenshot](images/shop.png)
 
-## Footer Section
+### Footer Section
 The footer includes multiple columns with links.
 
-### HTML Tags Used:
+**HTML Tags Used:**
 - `<footer>`
 - `<div>`
 - `<ul>`
@@ -90,42 +91,14 @@ The footer includes multiple columns with links.
 - `<a>`
 - `<h3>`
 
-### CSS Properties:
+**CSS Properties:**
 - Flexbox for layout
 - Background colors
 - Font sizes
 - Padding and margins
 
-![Footer Screenshot](images/footer-screenshot.png)
+![Footer Screenshot](images/footer.png)
 
 ## Hosted Link
-The project is hosted at: [Amazon Clone](https://your-hosted-link)
+The project is hosted at: [Amazon Clone](https://Ashudevtech.github.io/Weekly-test-5)
 
-## Screenshots and Explanations
-### Header Section
-![Header](images/header.png)
-- Created using `<header>` tag.
-- The logo is inside a `<div>` tag with an `<a>` tag wrapping an `<img>` tag.
-- The navigation links and search bar are implemented using `<div>`, `<select>`, `<input>`, and `<a>` tags.
-
-### Banner Section
-![Banner](images/banner.png)
-- Created using `<div>` tags for structure and `<ul>` and `<li>` tags for the list of links.
-- Styled using CSS Flexbox for layout and color properties for background and text.
-
-### Hero Section
-![Hero](images/hero.png)
-- Created using a `<section>` tag with a background image applied through CSS.
-- The height is set to 400px, and the background image is centered and covers the section.
-
-### Shop Section
-![Shop](images/shop.png)
-- Created using a `<section>` tag containing multiple `<div>` tags for each product category.
-- Each `<div>` includes an `<h3>`, `<img>`, and `<a>` tag.
-- Styled using CSS Grid for layout, padding for spacing, and hover effects for interactivity.
-
-### Footer Section
-![Footer](images/footer.png)
-- Created using a `<footer>` tag with multiple `<div>` tags inside it.
-- Each column of links is an `<ul>` tag containing `<li>` tags with `<a>` tags inside.
-- Styled using CSS Flexbox for layout, background colors, and font properties.
